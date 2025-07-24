@@ -26,5 +26,10 @@ This project is built with:
 - Vite
 - TypeScript
 - React
+- Python
+- GeoLocation
+- Supabase
+- Xano
 - shadcn-ui
 - Tailwind CSS
+- SendGrid
